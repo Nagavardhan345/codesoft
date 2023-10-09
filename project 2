@@ -1,1 +1,34 @@
 
+
+</html<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles2.css">
+    <title>Admiration Page</title>
+</head>
+<body>
+    <header>
+        <h1>DR.SARDHAR VALLABHAI PATEL</h1>
+    </header>
+    <main>
+        <div class="image-container">
+            <img src="C:\Users\jwala\Downloads\sardar.jpeg" alt="Shri DR.Sardar vallabhai patel ">
+        </div>
+        <div class="description">
+            <p> As the first Home Minister, Patel played the key role in the integration of the princely states into the Indian federation. This achievement formed the cornerstone of Patel's popularity in the post-independence era. Even today he is remembered as the man who united India.</p>
+
+            <p>Sardar Vallabhbhai Patel is known as the iron man of India. The reason is that his commitment to national integration in the newly independent country was total and uncompromising, earning him the title 'Iron Man of India'. Q.
+                And for this unforgettable service to the nation his name will always be remembered with reverence. Sardar Patel died on 15 December 1950. He was awarded with the Bharat Ratna in the year 1991 as a tribute to his services to the Nation
+                Sardar Patel was the President of the Indian National Congress at the Karachi session. The session was held in 1931. The session of the Indian National Congress was called to ratify the Gandhi - Irwin Pact. He was elected for the first time as a Municipal Councillor in Ahmedabad in the year 1917.
+                He died of a heart attack in Bombay on December 15, 1950. Here are some lesser-known facts about him on his 72nd death anniversary. His official birth date is not October 31. While taking his matriculation exam he randomly picked October 31, 1875 as his birth date
+                ardar Vallabhbhai Patel was tasked with the monumental mission of political integration in India, and he is in responsible of uniting the country's 562 princely states.
+            </p>
+        </div>
+    </main>
+    <footer>
+        <p>Created by M.Nagavardhan</p>
+    </footer>
+</body>
+</html>
